@@ -7,5 +7,5 @@ A Single HTML only web page. That shows my career informations.
 - open preview
 
 # Github Repo URL
-https://github.com/AnoopGeorge418/SinglePage-CV
+**Project URL** - https://github.com/AnoopGeorge418/SinglePage-CV
 
